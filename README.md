@@ -4,7 +4,6 @@
 A smart housing platform designed to help people—especially students—find safe, affordable housing and compatible roommates using modern technology.
 
 ---
-[DAR.pdf](https://github.com/user-attachments/files/25178308/DAR.pdf)
 
 ## 👥 Team Name
 **DarTech Group**
@@ -83,6 +82,10 @@ Explore rooms and apartments with immersive **360-degree views** before visiting
 - Students  
 - Young professionals  
 - Anyone searching for safe, affordable shared housing  
+
+---
+## ProjectProposal
+[DAR.pdf](https://github.com/user-attachments/files/25178308/DAR.pdf)
 
 ---
 
