@@ -1,15 +1,32 @@
-# 🏠 DAR | دار
+# 🏠 Project Name
+**DAR | دار**
 
-A smart housing platform that helps people—especially students—find **safe, affordable housing** and **compatible roommates** using modern technology.
+A smart housing platform designed to help people—especially students—find safe, affordable housing and compatible roommates using modern technology.
 
 ---
 
-## 📌 Project Overview
-**DAR** is designed to solve the biggest challenges faced during accommodation search:
-- High and unclear pricing  
-- Unsafe or unverified listings  
-- Roommate conflicts  
-- Time-consuming and unreliable search process  
+## 👥 Team Name
+**DarTech Group**
+
+---
+
+## 👨‍💻 Team
+- Hagar Elshahat Saad Osman  
+- Heba Mohammed Mostafa Ali  
+- Helbees Refaat Taklaa Louka  
+- Sodfa Naeem Zaher Abou Gharbiya  
+- Yasmen Abd-ElMabod Kotb Nasar  
+
+---
+
+## 📌 Overview
+**DAR** is a smart housing platform that solves the main challenges of finding accommodation.
+
+It focuses on:
+- Financial transparency with budget-friendly and clear pricing  
+- Social compatibility through smart roommate matching  
+- Safety by providing verified listings and trusted landlords  
+- Convenience using smart maps, 360° views, reviews, and digital payments  
 
 DAR brings all solutions together in **one smart, user-friendly platform**.
 
@@ -65,25 +82,6 @@ Explore rooms and apartments with immersive **360-degree views** before visiting
 - Students  
 - Young professionals  
 - Anyone searching for safe, affordable shared housing  
-
----
-
-## 👨‍💻 Team – DarTech Group
-- **Hagar Elshahat Saad Osman**  
-- **Heba Mohammed Mostafa Ali**  
-- **Helbees Refaat Taklaa Louka**  
-- **Sodfa Naeem Zaher Abou Gharbiya**  
-- **Yasmen Abd-ElMabod Kotb Nasar**  
-
----
-
-## 📅 Project Date
-**January 2026**
-
----
-
-## 🚀 Vision
-To create a **modern, secure, and comfortable living experience** by connecting people with the right home and the right roommates—smartly and safely.
 
 ---
 
